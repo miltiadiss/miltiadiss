@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Miltiadis Mantes!</h1>
-<h3">I'm an undergraduate student in the **Department of Computer Engineering & Informatics** of the Polytechnic Faculty of University of Patras, Greece. Here you can find some of the projects I have committed during my studies: [My Repositories](https://github.com/miltiadiss?tab=repositories)</h3>
+<h3">I'm an undergraduate student in the **Department of Computer Engineering & Informatics** of the Polytechnic Faculty of University of Patras, Greece. Here you can find some of the projects I have committed during my studies:</h3>
+<a href="https://github.com/miltiadiss?tab=repositories">My Repositories</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
