@@ -1,10 +1,18 @@
 <h1>Hi 👋, I'm Miltiadis Mantes!</h1>
-<h3">I'm an undergraduate student in the Department of Computer Engineering & Informatics of the Polytechnic Faculty of University of Patras, Greece. Here you can find some of the projects I have committed during my studies:</h3>
-<a href="https://github.com/miltiadiss?tab=repositories">My Repositories</a>
+<h3>I'm an undergraduate student in the Department of Computer Engineering & Informatics of the Polytechnic Faculty of University of Patras, Greece. Here you can find some of the projects I have committed during my studies:</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/miltiadiss?tab=repositories](https://github.com/miltiadiss?tab=repositories)
+
+- 📫 How to reach me **miltiadesmantes@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/me/Downloads/1084661_%CE%92%CE%99%CE%9F%CE%93%CE%A1%CE%91%CE%A6%CE%99%CE%9A%CE%9F.pdf](file:///C:/Users/me/Downloads/1084661_%CE%92%CE%99%CE%9F%CE%93%CE%A1%CE%91%CE%A6%CE%99%CE%9A%CE%9F.pdf)
+
+- ⚡ Fun fact **I think I am funny...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miltiades-mantes-6b0791269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miltiades-mantes-6b0791269" height="30" width="40" /></a>
+<a href="https://fb.com/miltiadis.mantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miltiadis.mantes" height="30" width="40" /></a>
 <a href="https://instagram.com/_.miltos.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.miltos.__" height="30" width="40" /></a>
 </p>
 
