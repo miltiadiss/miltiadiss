@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **miltiadesmantes@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/me/Downloads/1084661_%CE%92%CE%99%CE%9F%CE%93%CE%A1%CE%91%CE%A6%CE%99%CE%9A%CE%9F.pdf](file:///C:/Users/me/Downloads/1084661_%CE%92%CE%99%CE%9F%CE%93%CE%A1%CE%91%CE%A6%CE%99%CE%9A%CE%9F.pdf)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I think I am funny...**
 
