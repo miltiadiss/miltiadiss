@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miltiadiss&show_icons=true&locale=en&layout=compact" alt="miltiadiss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miltiadiss&show_icons=true&locale=en" alt="miltiadiss" /></p>:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miltiadiss&show_icons=true&locale=en" alt="miltiadiss" /></p>
