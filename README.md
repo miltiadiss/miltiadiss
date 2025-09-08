@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **miltiadesmantes@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences [CV_Miltiadis_Mantes.pdf](https://github.com/user-attachments/files/22210560/CV_Miltiadis_Mantes.pdf)
 
 - ⚡ Fun fact **I think I am funny...**
 
