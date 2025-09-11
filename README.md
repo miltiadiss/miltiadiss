@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Miltiadis Mantes!</h1>
-<h3>I'm an undergraduate student in the Department of Computer Engineering & Informatics of the Polytechnic School of University of Patras, Greece. Here you can find some of the projects I have committed during my studies.</h3>
+<h3>I'm an undergraduate student in the Department of Computer Engineering & Informatics of the Polytechnic Faculty of University of Patras, Greece. Here you can find some of the projects I have committed during my studies.</h3>
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/miltiadiss?tab=repositories)
 
