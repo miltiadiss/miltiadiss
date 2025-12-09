@@ -1,13 +1,11 @@
 <h1>Hi 👋, I'm Miltiadis Mantes!</h1>
-<h3>I'm an undergraduate student in the Department of Computer Engineering & Informatics of the Polytechnic Faculty of University of Patras, Greece. Here you can find some of the projects I have committed during my studies.</h3>
+<h3>I'm an alumnus of the Department of Computer Engineering & Informatics of the Polytechnic Faculty of University of Patras, Greece. Here you can find some of the projects I have committed during my studies.</h3>
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/miltiadiss?tab=repositories)
 
 - 📫 How to reach me **miltiadesmantes@gmail.com**
 
-- 📄 Know about my experiences [CV_Miltiadis_Mantes.pdf](https://github.com/user-attachments/files/22210560/CV_Miltiadis_Mantes.pdf)
-
-- ⚡ Fun fact **I think I am funny...**
+- 📄 Know about my experiences [CV_Miltiadis_Mantes.pdf](https://github.com/user-attachments/files/24055193/CV_Miltiadis_Mantes.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
